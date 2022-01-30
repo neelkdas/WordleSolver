@@ -1,5 +1,5 @@
 # WordleSolver
-Inspired by the wordle game, I tried to create a solver in the spirit of an English language solver
+Inspired by the wordle game, I tried to create a solver in the spirit of an human English language solver
 An overview of the game (https://www.powerlanguage.co.uk/wordle/):
   There is an unknown five letter word you are attempting to guess.
   A guess is only valid if it is an actual word in the dictionary
